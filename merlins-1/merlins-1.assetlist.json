@@ -1,33 +1,32 @@
 {
-  "chain_name": "osmosis",
+  "chain_name": "merlins",
   "assets": [
     {
-      "description": "The native token of Osmosis",
+      "description": "The native token of Merlins",
       "denom_units": [
         {
-          "denom": "uosmo",
+          "denom": "ufury",
           "exponent": 0
         },
         {
-          "denom": "osmo",
+          "denom": "fury",
           "exponent": 6
         }
       ],
-      "base": "uosmo",
-      "name": "Osmosis",
-      "display": "osmo",
-      "symbol": "OSMO",
+      "base": "ufury",
+      "name": "Merlins",
+      "display": "fury",
+      "symbol": "FURY",
       "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/fanfury.png"
       },
-      "coingecko_id": "osmosis",
+      "coingecko_id": "fanfury",
       "keywords": [
         "dex",
         "staking",
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
         "ATOM:1",
         "USDC.axl:678"
       ]
@@ -48,16 +47,16 @@
       "display": "ion",
       "symbol": "ION",
       "logo_URIs": {
-        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.png",
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.svg"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/merlins/images/ion.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/merlins/images/ion.svg"
       },
       "coingecko_id": "ion",
       "keywords": [
         "memecoin",
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:2"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:2"
       ]
     },
     {
@@ -107,10 +106,10 @@
       },
       "coingecko_id": "usd-coin",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:678"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:678"
       ]
     },
     {
@@ -159,10 +158,10 @@
       },
       "coingecko_id": "weth",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:704"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:704"
       ]
     },
     {
@@ -211,10 +210,10 @@
       },
       "coingecko_id": "wrapped-bitcoin",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:712"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:712"
       ]
     },
     {
@@ -264,8 +263,8 @@
       },
       "coingecko_id": "tether",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
+        "merlins-frontier",
+        "merlins-info",
         "USDC.axl:877"
       ]
     },
@@ -316,10 +315,10 @@
       },
       "coingecko_id": "dai",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:674"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:674"
       ]
     },
     {
@@ -368,8 +367,8 @@
       },
       "coingecko_id": "binance-usd",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
+        "merlins-frontier",
+        "merlins-info",
         "USDC.axl:877"
       ]
     },
@@ -412,10 +411,10 @@
       },
       "coingecko_id": "cosmos",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:1"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:1"
       ]
     },
     {
@@ -456,10 +455,10 @@
       },
       "coingecko_id": "crypto-com-chain",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:9"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:9"
       ]
     },
     {
@@ -509,10 +508,10 @@
       },
       "coingecko_id": "wbnb",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:840"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:840"
       ]
     },
     {
@@ -561,10 +560,10 @@
       },
       "coingecko_id": "matic-network",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:789"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:789"
       ]
     },
     {
@@ -612,10 +611,10 @@
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/avax.png"
       },
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:899"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:899"
       ]
     },
     {
@@ -668,9 +667,9 @@
       },
       "coingecko_id": "terra-luna",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:800"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:800"
       ]
     },
     {
@@ -712,10 +711,10 @@
       },
       "coingecko_id": "juno-network",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:497"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:497"
       ]
     },
     {
@@ -765,10 +764,10 @@
       },
       "coingecko_id": "polkadot",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:773"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:773"
       ]
     },
     {
@@ -810,10 +809,10 @@
       },
       "coingecko_id": "evmos",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:722"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:722"
       ]
     },
     {
@@ -854,10 +853,10 @@
       },
       "coingecko_id": "kava",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:730"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:730"
       ]
     },
     {
@@ -899,10 +898,10 @@
       },
       "coingecko_id": "secret",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:584"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:584"
       ]
     },
     {
@@ -955,9 +954,9 @@
       },
       "coingecko_id": "terrausd",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:560"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:560"
       ]
     },
     {
@@ -998,10 +997,10 @@
       },
       "coingecko_id": "stargaze",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:604"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:604"
       ]
     },
     {
@@ -1043,10 +1042,10 @@
       },
       "coingecko_id": "chihuahua-token",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:605"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:605"
       ]
     },
     {
@@ -1088,10 +1087,10 @@
       },
       "coingecko_id": "persistence",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:15"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:15"
       ]
     },
     {
@@ -1163,10 +1162,10 @@
       },
       "coingecko_id": "pstake-finance",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:648"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:648"
       ]
     },
     {
@@ -1208,10 +1207,10 @@
       },
       "coingecko_id": "akash-network",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:3"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:3"
       ]
     },
     {
@@ -1252,10 +1251,10 @@
       },
       "coingecko_id": "regen",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:42"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:42"
       ]
     },
     {
@@ -1296,10 +1295,10 @@
       },
       "coingecko_id": "sentinel",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:5"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:5"
       ]
     },
     {
@@ -1341,10 +1340,10 @@
       },
       "coingecko_id": "iris-network",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:7"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:7"
       ]
     },
     {
@@ -1386,10 +1385,10 @@
       },
       "coingecko_id": "starname",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:197"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:197"
       ]
     },
     {
@@ -1430,10 +1429,10 @@
       },
       "coingecko_id": "e-money",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:463"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:463"
       ]
     },
     {
@@ -1474,10 +1473,10 @@
       },
       "coingecko_id": "e-money-eur",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:481"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:481"
       ]
     },
     {
@@ -1519,10 +1518,10 @@
       },
       "coingecko_id": "likecoin",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:553"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:553"
       ]
     },
     {
@@ -1563,10 +1562,10 @@
       },
       "coingecko_id": "ixo",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:557"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:557"
       ]
     },
     {
@@ -1608,10 +1607,10 @@
       },
       "coingecko_id": "bitcanna",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:571"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:571"
       ]
     },
     {
@@ -1654,10 +1653,10 @@
       },
       "coingecko_id": "bitsong",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:573"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:573"
       ]
     },
     {
@@ -1699,10 +1698,10 @@
       },
       "coingecko_id": "ki",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:577"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:577"
       ]
     },
     {
@@ -1743,10 +1742,10 @@
       },
       "coingecko_id": "medibloc",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:586"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:586"
       ]
     },
     {
@@ -1783,8 +1782,8 @@
       },
       "coingecko_id": "bostrom",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:597"
+        "merlins-frontier",
+        "FURY:597"
       ]
     },
     {
@@ -1826,10 +1825,10 @@
       },
       "coingecko_id": "comdex",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:601"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:601"
       ]
     },
     {
@@ -1871,10 +1870,10 @@
       },
       "coingecko_id": "cheqd-network",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:602"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:602"
       ]
     },
     {
@@ -1916,10 +1915,10 @@
       },
       "coingecko_id": "lum-network",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:608"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:608"
       ]
     },
     {
@@ -1961,10 +1960,10 @@
       },
       "coingecko_id": "vidulum",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:613"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:613"
       ]
     },
     {
@@ -2006,10 +2005,10 @@
       },
       "coingecko_id": "desmos",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:619"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:619"
       ]
     },
     {
@@ -2050,10 +2049,10 @@
       },
       "coingecko_id": "dig-chain",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:621"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:621"
       ]
     },
     {
@@ -2103,10 +2102,10 @@
       },
       "coingecko_id": "sommelier",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:627"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:627"
       ]
     },
     {
@@ -2148,10 +2147,10 @@
       },
       "coingecko_id": "band-protocol",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:626"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:626"
       ]
     },
     {
@@ -2193,9 +2192,9 @@
       },
       "coingecko_id": "darcmatter-coin",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:637"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:637"
       ]
     },
     {
@@ -2236,10 +2235,10 @@
       },
       "coingecko_id": "umee",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:641"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:641"
       ]
     },
     {
@@ -2281,10 +2280,10 @@
       },
       "coingecko_id": "graviton",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:625"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:625"
       ]
     },
     {
@@ -2326,10 +2325,10 @@
       },
       "coingecko_id": "decentr",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:644"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:644"
       ]
     },
     {
@@ -2375,9 +2374,9 @@
       },
       "coingecko_id": "marble",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:649"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:649"
       ]
     },
     {
@@ -2422,10 +2421,10 @@
       },
       "coingecko_id": "switcheo",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:651"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:651"
       ]
     },
     {
@@ -2466,9 +2465,9 @@
       },
       "coingecko_id": "cerberus-2",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:662"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:662"
       ]
     },
     {
@@ -2510,10 +2509,10 @@
       },
       "coingecko_id": "fetch-ai",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:681"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:681"
       ]
     },
     {
@@ -2554,10 +2553,10 @@
       },
       "coingecko_id": "assetmantle",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:690"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:690"
       ]
     },
     {
@@ -2603,9 +2602,9 @@
       },
       "coingecko_id": "neta",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:631"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:631"
       ]
     },
     {
@@ -2647,9 +2646,9 @@
       },
       "coingecko_id": "injective-protocol",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "OSMO:725"
+        "merlins-main",
+        "merlins-frontier",
+        "FURY:725"
       ]
     },
     {
@@ -2740,8 +2739,8 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/microtick/images/tick.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
+        "merlins-frontier",
+        "merlins-info",
         "ATOM:547"
       ]
     },
@@ -2784,9 +2783,9 @@
       },
       "coingecko_id": "sifchain",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:629"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:629"
       ]
     },
     {
@@ -2870,8 +2869,8 @@
       },
       "coingecko_id": "hope-galaxy",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:653"
+        "merlins-frontier",
+        "FURY:653"
       ]
     },
     {
@@ -2917,8 +2916,8 @@
       },
       "coingecko_id": "racoon",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:669"
+        "merlins-frontier",
+        "FURY:669"
       ]
     },
     {
@@ -3074,9 +3073,9 @@
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gweth.png"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:634"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:634"
       ]
     },
     {
@@ -3132,9 +3131,9 @@
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gusdc.png"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:633"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:633"
       ]
     },
     {
@@ -3244,9 +3243,9 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/gusdt.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:818"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:818"
       ]
     },
     {
@@ -3291,8 +3290,8 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/block.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:691"
+        "merlins-frontier",
+        "FURY:691"
       ]
     },
     {
@@ -3334,9 +3333,9 @@
       },
       "coingecko_id": "provenance-blockchain",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:693"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:693"
       ]
     },
     {
@@ -3377,8 +3376,8 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/galaxy/images/glx.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:697"
+        "merlins-frontier",
+        "FURY:697"
       ]
     },
     {
@@ -3420,9 +3419,9 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dhk.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:695"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:695"
       ]
     },
     {
@@ -3467,8 +3466,8 @@
       },
       "coingecko_id": "junoswap-raw-dao",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:700"
+        "merlins-frontier",
+        "FURY:700"
       ]
     },
     {
@@ -3510,9 +3509,9 @@
       },
       "coingecko_id": "meme-network",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:701"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:701"
       ]
     },
     {
@@ -3597,9 +3596,9 @@
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/joe.png"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:718"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:718"
       ]
     },
     {
@@ -3640,9 +3639,9 @@
       },
       "coingecko_id": "terra-luna-2",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:726"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:726"
       ]
     },
     {
@@ -3809,10 +3808,10 @@
       },
       "coingecko_id": "chainlink",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:731"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:731"
       ]
     },
     {
@@ -3853,9 +3852,9 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/genesisl1/images/l1.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:732"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:732"
       ]
     },
     {
@@ -4042,9 +4041,9 @@
       },
       "coingecko_id": "maker",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "OSMO:733"
+        "merlins-main",
+        "merlins-frontier",
+        "FURY:733"
       ]
     },
     {
@@ -4139,9 +4138,9 @@
       },
       "coingecko_id": "shiba-inu",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:880"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:880"
       ]
     },
     {
@@ -4274,10 +4273,10 @@
       },
       "coingecko_id": "kujira",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:744"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:744"
       ]
     },
     {
@@ -4319,10 +4318,10 @@
       },
       "coingecko_id": "tgrade",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:769"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:769"
       ]
     },
     {
@@ -4364,8 +4363,8 @@
       },
       "coingecko_id": "echelon",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:848"
+        "merlins-frontier",
+        "FURY:848"
       ]
     },
     {
@@ -4407,9 +4406,9 @@
       },
       "coingecko_id": "odin-protocol",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:777"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:777"
       ]
     },
     {
@@ -4450,9 +4449,9 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/geo.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:787"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:787"
       ]
     },
     {
@@ -4493,8 +4492,8 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/o9w.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:805"
+        "merlins-frontier",
+        "FURY:805"
       ]
     },
     {
@@ -4539,9 +4538,9 @@
       },
       "coingecko_id": "lvn",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:774"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:774"
       ]
     },
     {
@@ -4633,9 +4632,9 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/glto.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:778"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:778"
       ]
     },
     {
@@ -4680,9 +4679,9 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/gkey.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:790"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:790"
       ]
     },
     {
@@ -4724,9 +4723,9 @@
       },
       "coingecko_id": "crescent-network",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:786"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:786"
       ]
     },
     {
@@ -4766,8 +4765,8 @@
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lumenx/images/lumen.png"
       },
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:788"
+        "merlins-frontier",
+        "FURY:788"
       ]
     },
     {
@@ -4809,9 +4808,9 @@
       },
       "coingecko_id": "oraichain-token",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:799"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:799"
       ]
     },
     {
@@ -4854,9 +4853,9 @@
       },
       "coingecko_id": "cudos",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:796"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:796"
       ]
     },
     {
@@ -4935,10 +4934,10 @@
       },
       "coingecko_id": "agoric",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:795"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:795"
       ]
     },
     {
@@ -4978,10 +4977,10 @@
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png"
       },
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:837"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:837"
       ]
     },
     {
@@ -5027,9 +5026,9 @@
       },
       "coingecko_id": "stakeeasy-juno-derivative",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:793"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:793"
       ]
     },
     {
@@ -5114,10 +5113,10 @@
       },
       "coingecko_id": "stride",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:806"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:806"
       ]
     },
     {
@@ -5166,9 +5165,9 @@
       },
       "coingecko_id": "stride-staked-atom",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
         "ATOM:803"
       ]
     },
@@ -5217,8 +5216,8 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/ststars.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
+        "merlins-frontier",
+        "merlins-info",
         "STARS:810"
       ]
     },
@@ -5307,8 +5306,8 @@
       },
       "coingecko_id": "seasy",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:808"
+        "merlins-frontier",
+        "FURY:808"
       ]
     },
     {
@@ -5350,10 +5349,10 @@
       },
       "coingecko_id": "axelar",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:812"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:812"
       ]
     },
     {
@@ -5395,9 +5394,9 @@
       },
       "coingecko_id": "rebus",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:813"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:813"
       ]
     },
     {
@@ -5439,9 +5438,9 @@
       },
       "coingecko_id": "teritori",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:816"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:816"
       ]
     },
     {
@@ -5489,8 +5488,8 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stjuno.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
+        "merlins-frontier",
+        "merlins-info",
         "JUNO:817"
       ]
     },
@@ -5500,7 +5499,7 @@
           "denom": "ibc/D176154B0C63D1F9C6DCFB4F70349EBF2E2B5A87A05902F57A6AE92B863E9AEC",
           "exponent": 0,
           "aliases": [
-            "stuosmo"
+            "stufury"
           ]
         },
         {
@@ -5516,8 +5515,8 @@
         {
           "type": "liquid-stake",
           "counterparty": {
-            "chain_name": "osmosis",
-            "base_denom": "uosmo"
+            "chain_name": "merlins",
+            "base_denom": "ufury"
           },
           "provider": "Stride"
         },
@@ -5525,12 +5524,12 @@
           "type": "ibc",
           "counterparty": {
             "chain_name": "stride",
-            "base_denom": "stuosmo",
+            "base_denom": "stufury",
             "channel_id": "channel-5"
           },
           "chain": {
             "channel_id": "channel-326",
-            "path": "transfer/channel-326/stuosmo"
+            "path": "transfer/channel-326/stufury"
           }
         }
       ],
@@ -5539,10 +5538,10 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.svg"
       },
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:833"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:833"
       ]
     },
     {
@@ -5624,9 +5623,9 @@
       },
       "coingecko_id": "lambda",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:826"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:826"
       ]
     },
     {
@@ -5667,8 +5666,8 @@
       },
       "coingecko_id": "usk",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:819"
+        "merlins-frontier",
+        "FURY:819"
       ]
     },
     {
@@ -5709,8 +5708,8 @@
       },
       "coingecko_id": "unification",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:830"
+        "merlins-frontier",
+        "FURY:830"
       ]
     },
     {
@@ -5752,9 +5751,9 @@
       },
       "coingecko_id": "jackal-protocol",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:832"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:832"
       ]
     },
     {
@@ -5798,9 +5797,9 @@
       },
       "coingecko_id": "alter",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:845"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:845"
       ]
     },
     {
@@ -5889,9 +5888,9 @@
       },
       "coingecko_id": "shade-protocol",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:846"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:846"
       ]
     },
     {
@@ -5937,8 +5936,8 @@
       },
       "coingecko_id": "sienna",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:853"
+        "merlins-frontier",
+        "FURY:853"
       ]
     },
     {
@@ -5984,7 +5983,7 @@
       },
       "coingecko_id": "stkd-scrt",
       "keywords": [
-        "osmosis-frontier",
+        "merlins-frontier",
         "SCRT:854"
       ]
     },
@@ -6027,9 +6026,9 @@
       },
       "coingecko_id": "bzedge",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:856"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:856"
       ]
     },
     {
@@ -6113,8 +6112,8 @@
       },
       "coingecko_id": "arable-protocol",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:858"
+        "merlins-frontier",
+        "FURY:858"
       ]
     },
     {
@@ -6156,8 +6155,8 @@
       },
       "coingecko_id": "composite",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:857"
+        "merlins-frontier",
+        "FURY:857"
       ]
     },
     {
@@ -6199,7 +6198,7 @@
       },
       "coingecko_id": "imv",
       "keywords": [
-        "osmosis-frontier",
+        "merlins-frontier",
         "USDC.axl:866"
       ]
     },
@@ -6242,9 +6241,9 @@
       },
       "keywords": [
         "medas",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:859"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:859"
       ]
     },
     {
@@ -6290,8 +6289,8 @@
       },
       "coingecko_id": "posthuman",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
+        "merlins-frontier",
+        "merlins-info",
         "ATOM:867"
       ]
     },
@@ -6378,9 +6377,9 @@
         "stablecoin",
         "bridge",
         "staking",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:882",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:882",
         "ATOM:885"
       ]
     },
@@ -6425,9 +6424,9 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkatom.svg"
       },
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
         "ATOM:886"
       ]
     },
@@ -6465,9 +6464,9 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dyson/images/dys.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:905"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:905"
       ]
     },
     {
@@ -6512,9 +6511,9 @@
       },
       "coingecko_id": "hopers-io ",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:894"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:894"
       ]
     },
     {
@@ -6555,8 +6554,8 @@
       },
       "coingecko_id": "arable-usd",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
+        "merlins-frontier",
+        "merlins-info",
         "USDC.axl:895"
       ]
     },
@@ -6599,9 +6598,9 @@
       },
       "coingecko_id": "planq",
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:898"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:898"
       ]
     },
     {
@@ -6649,9 +6648,9 @@
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/fantom/images/ftm.png"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:900"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:900"
       ]
     },
     {
@@ -6692,8 +6691,8 @@
       },
       "coingecko_id": "canto",
       "keywords": [
-        "osmosis-frontier",
-        "OSMO:901"
+        "merlins-frontier",
+        "FURY:901"
       ]
     },
     {
@@ -6743,7 +6742,7 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qstars.svg"
       },
       "keywords": [
-        "osmosis-frontier",
+        "merlins-frontier",
         "STARS:903"
       ]
     },
@@ -6789,10 +6788,10 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/wynd.svg"
       },
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:902"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:902"
       ]
     },
     {
@@ -6926,10 +6925,10 @@
       },
       "coingecko_id": "mars-protocol",
       "keywords": [
-        "osmosis-main",
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:907"
+        "merlins-main",
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:907"
       ]
     },
     {
@@ -6969,8 +6968,8 @@
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/acrechain/images/cnto.png"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
+        "merlins-frontier",
+        "merlins-info",
         "USDC.axl:909"
       ]
     },
@@ -7019,7 +7018,7 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stluna.svg"
       },
       "keywords": [
-        "osmosis-frontier",
+        "merlins-frontier",
         "LUNA:913"
       ]
     },
@@ -7068,7 +7067,7 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stevmos.svg"
       },
       "keywords": [
-        "osmosis-frontier",
+        "merlins-frontier",
         "EVMOS:922"
       ]
     },
@@ -7156,9 +7155,9 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/nride.svg"
       },
       "keywords": [
-        "osmosis-frontier",
-        "osmosis-info",
-        "OSMO:924"
+        "merlins-frontier",
+        "merlins-info",
+        "FURY:924"
       ]
     }
   ]
